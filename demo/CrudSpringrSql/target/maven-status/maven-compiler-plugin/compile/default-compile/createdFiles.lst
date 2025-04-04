@@ -1,0 +1,5 @@
+com\example\CrudSpringrSql\service\UsuarioService.class
+com\example\CrudSpringrSql\repository\UsuarioRepository.class
+com\example\CrudSpringrSql\CrudSpringrSqlApplication.class
+com\example\CrudSpringrSql\controller\UsuarioController.class
+com\example\CrudSpringrSql\model\Usuario.class
