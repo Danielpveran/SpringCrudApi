@@ -1,3 +1,4 @@
+com\example\CrudSpringrSql\controller\UsuarioRestController.class
 com\example\CrudSpringrSql\service\UsuarioService.class
 com\example\CrudSpringrSql\repository\UsuarioRepository.class
 com\example\CrudSpringrSql\CrudSpringrSqlApplication.class

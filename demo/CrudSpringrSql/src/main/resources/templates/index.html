@@ -50,8 +50,7 @@
                     <td th:text="${user.correo}"></td>
                     <td>
                         <a th:href="@{/editar/{id}(id=${user.id})}" class="btn btn-warning btn-sm">Editar</a>
-                        <a th:href="@{/eliminar/{id}(id=${user.id})}" class="btn btn-danger btn-sm" 
-                           onclick="return confirm('¿Estás seguro de eliminar este usuario?')">Eliminar</a>
+                        <a th:href="@{/eliminar/{id}(id=${user.id})}" class="btn btn-danger btn-sm">Eliminar</a>
                     </td>
                 </tr>
             </tbody>
